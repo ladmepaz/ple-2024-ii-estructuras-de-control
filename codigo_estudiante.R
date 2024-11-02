@@ -136,9 +136,9 @@ ejercicio09 <- function() {
   return(sumvec)
 }
 
-# Ejercicio 10: Calcula suma de elementos de vector 
+# Ejercicio 10: Calcula promedio de elementos de vector 
 ejercicio10 <- function() {
-  # Calcula la suma de los elementos del vector vec omitiendo los valores NA
+  # Calcula promedio de los elementos del vector vec omitiendo los valores NA
   vec <- c(1,-2,8,12,-2,NA,6,4,10,NA,9,8,NA,2)
   sumvec <- 0
   n <- NULL # Ingresa expresión aquí
